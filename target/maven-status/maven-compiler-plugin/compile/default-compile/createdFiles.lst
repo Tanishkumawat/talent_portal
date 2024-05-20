@@ -1,0 +1,8 @@
+com\mycompany\collegemanagement\resources\JakartaEE10Resource.class
+MyServelets\setFkey.class
+MyServelets\StudentDetailsWrite.class
+MyServelets\getSkey.class
+MyServelets\setSkey.class
+MyServelets\getFkey.class
+com\mycompany\collegemanagement\JakartaRestConfiguration.class
+MyServelets\FacultyDetailsWrite.class
